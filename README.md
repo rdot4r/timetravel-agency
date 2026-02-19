@@ -12,7 +12,7 @@
 
 ## 📁 Repository GitHub
 
-> **→ [https://github.com/votre-equipe/timetravel-agency](https://github.com/votre-equipe/timetravel-agency)**  
+> **→  [[https://github.com/votre-equipe/timetravel-agency]](https://github.com/rdot4r/timetravel-agency/tree/main)**  
 > *(Remplacer par l'URL réelle de votre repo)*
 
 ---
