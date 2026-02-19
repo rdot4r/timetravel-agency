@@ -35,7 +35,7 @@ TimeTravel Agency est une landing page interactive qui permet aux clients de :
 | Style | CSS3 (variables, animations, grid, flexbox) |
 | Logique | JavaScript Vanilla (ES6+) |
 | Typographie | Google Fonts (Cinzel, Cormorant Garamond, Raleway) |
-| Déploiement | Vercel / Netlify (drag & drop) |
+| Déploiement | Netlify (drag & drop) |
 | Hébergement | Aucun serveur requis — fichier statique unique |
 
 > Aucune dépendance npm, aucun framework — **1 seul fichier HTML autonome**.
@@ -66,7 +66,7 @@ TimeTravel Agency est une landing page interactive qui permet aux clients de :
 
 ### Phase 4 — Déploiement
 - [x] Code documenté et structuré
-- [x] Déployable en 1 clic sur Vercel ou Netlify
+- [x] Déployable en 1 clic sur Netlify
 
 ---
 
@@ -84,10 +84,10 @@ TimeTravel Agency est une landing page interactive qui permet aux clients de :
 
 | Usage | Outil / Modèle |
 |---|---|
-| Génération du code complet | Claude Sonnet 4.6 (via Claude.ai) |
+| Génération du code complet | Claude Sonnet 4.6  |
 | Agent conversationnel Chronos | JavaScript Vanilla (base de connaissances locale) |
 | Visuels des destinations | *(à intégrer depuis le Projet 1 — Midjourney / DALL-E)* |
-| Maquette initiale | *(v0.dev / Uizard selon choix équipe)* |
+| Maquette mentale (template mental papier) + génération code via Claude Sonnet 4.6* |
 
 ---
 
@@ -97,7 +97,7 @@ TimeTravel Agency est une landing page interactive qui permet aux clients de :
 ```
 timetravel-agency/
 │
-├── timetravel-agency.html   # Fichier principal (tout-en-un)
+├── index.html   # Fichier principal (tout-en-un)
 └── README.md                # Ce fichier
 ```
 
@@ -109,10 +109,10 @@ timetravel-agency/
 
 | Membre | Rôle |
 |---|---|
-| RALPH | Chef de projet / Design |
+| RALPH  | Chef de projet / Design |
 | ROMAIN | Développement frontend |
-| MIKE  | Intégration IA / Chatbot |
-| RYAN | Contenu / Destinations |
+| RALPH  | Intégration IA / Chatbot |
+| GWLADYS| Contenu / Destinations |
 
 ---
 
