@@ -109,10 +109,10 @@ timetravel-agency/
 
 | Membre | Rôle |
 |---|---|
-| [Prénom 1] | Chef de projet / Design |
-| [Prénom 2] | Développement frontend |
-| [Prénom 3] | Intégration IA / Chatbot |
-| [Prénom 4] | Contenu / Destinations |
+| RALPH | Chef de projet / Design |
+| ROMAIN | Développement frontend |
+| MIKE | Intégration IA / Chatbot |
+| RYAN | Contenu / Destinations |
 
 ---
 
