@@ -91,27 +91,6 @@ TimeTravel Agency est une landing page interactive qui permet aux clients de :
 
 ---
 
-## 🚀 Instructions de Déploiement
-
-### Option A — Netlify (le plus simple, 30 secondes)
-1. Aller sur [netlify.com](https://netlify.com)
-2. Créer un compte gratuit
-3. Glisser-déposer le fichier `timetravel-agency.html` dans la zone de dépôt
-4. L'URL publique est générée instantanément ✅
-
-### Option B — Vercel
-1. Aller sur [vercel.com](https://vercel.com)
-2. Créer un compte (gratuit)
-3. Cliquer sur "Add New Project" → "Deploy from CLI" ou importer depuis GitHub
-4. Uploader le fichier HTML → déploiement automatique ✅
-
-### Option C — GitHub Pages
-1. Créer un repo GitHub public
-2. Uploader `timetravel-agency.html` et le renommer `index.html`
-3. Aller dans Settings → Pages → Source: `main` branch
-4. URL : `https://votre-pseudo.github.io/timetravel-agency` ✅
-
----
 
 ## 📂 Structure du Projet
 
