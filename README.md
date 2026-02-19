@@ -111,7 +111,7 @@ timetravel-agency/
 |---|---|
 | RALPH | Chef de projet / Design |
 | ROMAIN | Développement frontend |
-| MIKE | Intégration IA / Chatbot |
+| MIKE  | Intégration IA / Chatbot |
 | RYAN | Contenu / Destinations |
 
 ---
